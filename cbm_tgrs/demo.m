@@ -4,7 +4,7 @@ close all;
 
 addpath("method");
 
-imagepath = "./image/3.jpg";
+imagepath = './image/3.jpg';
 
 image= imread(imagepath);
 
